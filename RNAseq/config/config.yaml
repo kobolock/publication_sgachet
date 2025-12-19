@@ -1,0 +1,10 @@
+samplesheet: samplesheet.tsv
+reference: hg19
+token: "RNAseq" 
+
+# align
+star_index: ".../annotations/Homo_sapiens/UCSC/hg19/Sequence/StarIndex/2.7.8a/readLength150/"
+ref_fasta: ".../annotations/Homo_sapiens/UCSC/hg19/Sequence/WholeGenomeFasta/genome.fa"
+gtf_file: ".../annotations/Homo_sapiens/UCSC/hg19/Annotation/Genes/genes.gtf"
+gene_annotation: ".../annotations/Homo_sapiens/UCSC/hg19/design/humanhg19.annot.csv.bz2"
+bed_file: ".../annotations/Homo_sapiens/UCSC/hg19/design/hg19_RefSeq.bed"
